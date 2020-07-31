@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://i.imgur.com/n2VI38k.png" width="350" title="Olá!">
+  <img src="https://i.imgur.com/n2VI38k.png" width="150" title="Olá!">
 </p>
 
 <!--
