@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Seja Bem-Vindo! 👋
 
 <p align="center">
   <img src="https://i.imgur.com/n2VI38k.png" width="150" title="Olá!">
