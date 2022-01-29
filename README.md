@@ -1,6 +1,6 @@
 ## Hello! I'm Diego Ferreira 🖐️
 
-  <img alt="my-emote" src="https://i.imgur.com/n2VI38k.png" width="120" title="Olá!">
+  <img alt="my-emote" src="https://i.imgur.com/n2VI38k.png" width="120">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoferreirati/)
 
