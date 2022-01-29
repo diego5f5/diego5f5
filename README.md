@@ -1,4 +1,4 @@
-### Hello! I'm Diego Ferreira 🖐️
+## Hello! I'm Diego Ferreira 🖐️
 
   <img alt="my-emote" src="https://i.imgur.com/n2VI38k.png" width="120" title="Olá!">
 
@@ -16,7 +16,4 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="styled-componentes" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </div><br/>
-
-### I love technology and I really enjoy developing solutions of all kinds, especially solutions that mix logic and visual aspects.
