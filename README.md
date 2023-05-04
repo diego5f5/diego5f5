@@ -1,4 +1,4 @@
-## Hello! 🖐️ I'm Diego Ferreira | Frontend Developer
+## Hello! 🖐️ I'm Diego Ferreira  |  Frontend Developer
 
   <img alt="my-emote" src="https://i.imgur.com/n2VI38k.png" width="120">
 
