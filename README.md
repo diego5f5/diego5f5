@@ -1,12 +1,14 @@
-## Hello! 🖐️ I'm Diego Ferreira  |  Frontend Developer
+## Hello! 🖐️ I'm Diego Ferreira | Frontend Developer
 
-  <img alt="my-emote" src="https://i.imgur.com/n2VI38k.png" width="120">
+<img alt="my-emote" src="https://i.imgur.com/n2VI38k.png" width="120">
+  
+### "In my Github profile, you will find projects created with the aim of studying, practicing, and specializing in some technologies. If you want to know more about real-world solutions and my experience, feel free to contact me."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoferreirati/)
 
 <br/>
 
-## Technologies that I use
+## Technologies that I use professionally and have the most experience with:
 
 <br/>
 <div style="display: inline_block">
