@@ -2,7 +2,7 @@
 
 <img alt="my-emote" src="https://i.imgur.com/n2VI38k.png" width="120">
   
-### "In my Github profile, you will find projects created with the aim of studying, practicing, and specializing in some technologies. If you want to know more about real-world solutions and my experience, feel free to contact me."
+### "In my Github profile, you will find projects created with the aim of studying, practicing, and specializing in some technologies. If you want to know more about real-world solutions and my experience, or just talk about technology, feel free to contact me."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoferreirati/)
 
